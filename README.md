@@ -1,2 +1,1 @@
-First try with pygame....
-Asteroids game from good old times!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
