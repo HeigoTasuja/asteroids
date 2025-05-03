@@ -1,1 +1,1 @@
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Good old asteroid game. Using Pygame to make this minimal, but fun game!
