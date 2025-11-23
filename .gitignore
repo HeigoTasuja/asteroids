@@ -1,3 +1,4 @@
 .zsh_history
 venv/
 __pycache__/
+game_state.jsonl
